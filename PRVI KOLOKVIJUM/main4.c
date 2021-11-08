@@ -7,9 +7,7 @@
 int main() {
 
     char string[MAX_STRING], string1[MAX_STRING];
-
     int brojac = 0;
-
     bool prvi_put_space;
 
     printf("Unesite string (max 100 karaktera): ");

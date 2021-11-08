@@ -7,9 +7,7 @@
 int main() {
 
     char string[MAX_STRING], string1[MAX_STRING], string2[MAX_STRING];
-
     int brojac = 0;
-
     bool za_unos = false;
 
     printf("Unesite prvi string (max 100 karaktera): ");
@@ -34,16 +32,13 @@ int main() {
                 za_unos = false;
                 break;
             }
-
             za_unos = true;
-
         }
 
         if(za_unos) {
             string2[brojac] = string[i];
             brojac++;
         }
-
     }
 
     string2[brojac] = '\0';
