@@ -1,0 +1,8 @@
+Petarde         110  250 
+Rimska_sveca    80   350 
+Cvrena_udovica  120  450 
+Vulkan          70   590 
+Baterija        120  2500
+
+Najbolji vatromet sa odnosom glasnoce prema ceni od 0.44 je::
+250 Petarde 110

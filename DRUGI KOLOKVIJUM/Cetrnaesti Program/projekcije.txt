@@ -1,0 +1,8 @@
+NS Arena     Hobit   Fantasy  500.00
+NS Arena     Frozen  Animated 366.60
+NS Arena     Smurfs  Animated 399.90
+NS Arena     Gravity Sci-Fi   300.00
+BG Cineplexx Hobit   Fantasy  550.00
+BG Cineplexx Frozen  Animated 426.66
+BG Cineplexx Smurfs  Animated 429.99
+BG Cineplexx Gravity Sci-Fi   230.00
